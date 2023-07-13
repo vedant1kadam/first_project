@@ -1,0 +1,3 @@
+word_list = ['wares','soup','mount','extend','brown','sick','uninterested','plan','nod','interesting','girl','mountainous','tramp','great','spotty','trade','tease','squeeze',
+             'regular','reflect','poke','daffy','obtainable','quirky','excite','donkey','bathe','warn','control','adjustment','disgusted','frequent',
+             'elfin','irritating','stomach','tiresome','calm','show','divergent','metal','amuck','large','uptight','synonymous','lake']
